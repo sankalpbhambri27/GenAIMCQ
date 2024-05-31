@@ -19,7 +19,7 @@ print(key)
 
 llm=ChatOpenAI(openai_api_key=key,model_name="gpt-3.5-turbo",temperature=0.7)
 
-with open("/Users/user/code/genai/GenAIMCQ/Response.json","r") as f:
+with open("/home/ubuntu/GenAIMCQ/Response.json","r") as f:
     response_json=json.load(f)
 
 print(response_json)
