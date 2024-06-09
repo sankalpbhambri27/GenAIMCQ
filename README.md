@@ -61,3 +61,6 @@ pip3 install -r requirements.txt
 python3 -m streamlit run StreamlitAPP.py
 
 ```
+
+##Architecuture diagram
+### https://whimsical.com/interview-creator-application-arcitecture-VwVD3B55AuEybup5PHqYsS
